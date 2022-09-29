@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio 2</string>
+    <string name="title_app">Actividad Principal</string>
+    <string name="button_activity_1">Actividad 1</string>
+    <string name="button_activity_2">Actividad 2</string>
+    <string name="scroll_button_1">Botón 1</string>
+    <string name="scroll_button_2">Botón 2</string>
+    <string name="scroll_button_3">Botón 3</string>
+    <string name="scroll_button_4">Botón 4</string>
+    <string name="scroll_button_5">Botón 5</string>
+    <string name="scroll_button_6">Botón 6</string>
+    <string name="scroll_button_7">Botón 7</string>
+    <string name="scroll_button_8">Botón 8</string>
+    <string name="scroll_button_9">Botón 9</string>
+    <string name="scroll_button_10">Botón 10</string>
+</resources>

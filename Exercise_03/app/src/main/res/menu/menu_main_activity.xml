@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+    <item
+        android:id="@+id/activity_a_item"
+        android:title="A"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/activity_b_item"
+        android:title="B"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/activity_c_item"
+        android:title="C"
+        app:showAsAction="always"/>
+</menu>
