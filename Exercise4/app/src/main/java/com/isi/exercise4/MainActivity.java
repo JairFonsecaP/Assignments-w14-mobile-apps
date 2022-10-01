@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
 
 
                 textToShow.setText(userText.getText().toString());
-                alert = new AlertDialog.Builder(MainActivity.this);
+
                 LayoutInflater inflater = getLayoutInflater();
                 alert.setView(inflater.inflate(R.layout.my_alert,null));
 
